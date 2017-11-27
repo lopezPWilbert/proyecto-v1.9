@@ -15,7 +15,7 @@ programacion web
 1.7  Agregado reportes y filtro nuevo
 1.8 Combinado (Estilos corregidos).  
 1.8.1 Agregado filtro con circulos.
-1.9 Estilos corregidos
+1.9 Estilos corregidos  
 *	Falta validar formulario triple  
 *	Agregar decorador de login aceptado  
 *   Si hay saltos de linea o acentos en la descripcion o titulo, se arruina todo.
